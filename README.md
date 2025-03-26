@@ -28,9 +28,9 @@ direction TB
 	<<Interface>> NavegadorSafari
 	<<Interface>> ReprodutorMusical
 	<<Class>> Iphone
-```
+
 
     Iphone ..|> AparelhoTelefonico
     Iphone ..|> NavegadorSafari
     Iphone ..|> ReprodutorMusical
-
+```
